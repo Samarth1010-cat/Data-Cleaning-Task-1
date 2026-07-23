@@ -62,31 +62,31 @@ Files:
 
 ### Dataset Loaded
 
-![Dataset Loaded](screenshots/1_dataset_loaded.png)
+![Dataset Loaded](Screenshots/1_dataset_loaded.png)
 
 ---
 
 ### Missing Values
 
-![Missing Values](screenshots/2_missing_values.png)
+![Missing Values](Screenshots/2_missing_values.png)
 
 ---
 
 ### After Cleaning
 
-![After Cleaning](screenshots/3_after_cleaning.png)
+![After Cleaning](Screenshots/3_after_cleaning.png)
 
 ---
 
 ### Project Completed
 
-![Completed](screenshots/4_completed.png)
+![Completed](Screenshots/4_completed.png)
 
 ---
 
 ### Cleaned Dataset
 
-![Excel Output](screenshots/5_cleaned_dataset.png)
+![Excel Output](Screenshots/5_cleaned_dataset.png)
 
 ---
 
